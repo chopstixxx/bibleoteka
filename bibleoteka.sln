@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibleoteka", "bibleoteka\bibleoteka.csproj", "{50C11B8F-68DE-41B8-AE41-2C427BECDB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dates_lib", "dates_lib\dates_lib.csproj", "{20394ECF-67B5-4BDA-9E2B-3FAE32860158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C11B8F-68DE-41B8-AE41-2C427BECDB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C11B8F-68DE-41B8-AE41-2C427BECDB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C11B8F-68DE-41B8-AE41-2C427BECDB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C11B8F-68DE-41B8-AE41-2C427BECDB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20394ECF-67B5-4BDA-9E2B-3FAE32860158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20394ECF-67B5-4BDA-9E2B-3FAE32860158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20394ECF-67B5-4BDA-9E2B-3FAE32860158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20394ECF-67B5-4BDA-9E2B-3FAE32860158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6DBF55-5719-4631-B7DA-1D8183BED702}
+	EndGlobalSection
+EndGlobal
